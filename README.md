@@ -1,7 +1,7 @@
 # TextBox-with-Placeholder-Control
 This is a textbox with placeholder functionality built right in for Visual Studio.
 <br>
-<table>
+<table valign="top">
   <tr>
     <td>
       Demonstration:<br>
