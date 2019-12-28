@@ -12,9 +12,9 @@ This is a textbox with placeholder functionality built right in for Visual Studi
     </td>
   </tr>
   <tr>
- 
+ <td width="100%">
       Video Demo Link:<br>
       <a href="https://www.youtube.com/watch?v=M06vMb9OOXc" target="_blank">https://www.youtube.com/watch?v=M06vMb9OOXc</a>
-  
+    </td>
   </tr>
   </table>
