@@ -8,7 +8,7 @@ This is a textbox with placeholder functionality built right in for Visual Studi
     </td>
     <td>
       Video Demo Link:<br>
-      <a href="https://www.youtube.com/watch?v=M06vMb9OOXc" target="_blank"></a>
+      <a href="https://www.youtube.com/watch?v=M06vMb9OOXc" target="_blank">Link</a>
     </td>
   </tr>
   </table>
