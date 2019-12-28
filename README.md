@@ -4,11 +4,11 @@ This is a textbox with placeholder functionality built right in for Visual Studi
 <table>
   <tr>
     <td>
-      Demonstration:
+      Demonstration:<br>
 <img src="https://cdn.discordapp.com/attachments/471276705936310272/660110824320401408/textbox_withplaceholder.gif">
     </td>
     <td>
-      The custom properties:
+      The custom properties:<br>
       <img src="https://media.discordapp.net/attachments/471276705936310272/660125646500003850/unknown.png">
     </td>
   </tr>
