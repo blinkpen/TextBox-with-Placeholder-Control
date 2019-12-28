@@ -8,7 +8,7 @@ This is a textbox with placeholder functionality built right in for Visual Studi
     </td>
     <td>
       The custom properties:
-      img src="https://media.discordapp.net/attachments/471276705936310272/660125646500003850/unknown.png">
+      <img src="https://media.discordapp.net/attachments/471276705936310272/660125646500003850/unknown.png">
     </td>
     <td>
       Video Demo Link:<br>
