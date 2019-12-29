@@ -15,7 +15,7 @@ This is a textbox with placeholder functionality built right in for Visual Studi
   <tr>
  <td>
       Video Demo Link:<br>
-      <a href="https://www.youtube.com/watch?v=M06vMb9OOXc" target="_blank">https://www.youtube.com/watch?v=M06vMb9OOXc</a>
+      <a href="https://www.youtube.com/watch?v=M06vMb9OOXc" target="_blank"><img src="https://i.imgur.com/aTRcvni.png"></a>
     </td>
   </tr>
   </table>
